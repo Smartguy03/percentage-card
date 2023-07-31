@@ -129,6 +129,7 @@ button:hover {
     height: 430px;
     border-radius: 0px;
     position: relative;
+    padding-right:12px;
   }
   .content2 h2 {
     font-weight: 400;
