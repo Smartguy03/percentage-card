@@ -113,9 +113,6 @@ button:hover {
     display: grid;
     grid-template-rows: 1fr;
   }
-  body{
-    width:370px;
-  }
   .content1 {
     width: 430px;
     height: 260px;
