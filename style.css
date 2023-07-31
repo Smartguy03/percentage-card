@@ -27,7 +27,7 @@ body {
 }
 
 .content1 {
-  width: 330px;
+  width: 400px;
   height: 530px;
   background: white;
   background-image: url(image-product-desktop.jpg);
@@ -114,7 +114,7 @@ button:hover {
     grid-template-rows: 1fr;
   }
   .content1 {
-    width: 430px;
+    width: 360px;
     height: 260px;
     font-size: 7px;
     border-radius: 0px;
