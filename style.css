@@ -112,7 +112,6 @@ button:hover {
   .content {
     display: grid;
     grid-template-rows: 1fr;
-    width:370px;
   }
   body{
     width:370px;
@@ -132,7 +131,7 @@ button:hover {
     height: 430px;
     border-radius: 0px;
     position: relative;
-    padding-right:12px;
+    padding:0px;
   }
   .content2 h2 {
     font-weight: 400;
